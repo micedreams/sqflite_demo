@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
         useMaterial3: true,
       ),
-      home: const HomePage(title: 'Sqflite Demo'),
+      home: const HomePage(),
     );
   }
 }
