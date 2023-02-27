@@ -1,6 +1,8 @@
 # sqflite_demo
 A new Flutter project to demonstrate how to use SQLite in a flutter app.
 
+https://user-images.githubusercontent.com/8918999/221352915-7c93c4bd-dc3b-4d3a-b584-8cf4af61c00c.mov
+
 ## What is Sqflite? What can it do for us?
 1. SQFlite is a plugin that helps to integrate SQLite in a flutter app.
 2. SQLite is a database engine written in the C programming language used to  store data locally on the system. In our case our mobile device.
