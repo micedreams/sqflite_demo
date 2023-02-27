@@ -8,8 +8,7 @@ https://user-images.githubusercontent.com/8918999/221352915-7c93c4bd-dc3b-4d3a-b
 2. SQLite is a database engine written in the C programming language used to  store data locally on the system. In our case our mobile device.
 3. It can do crud operations like Create, Read, Update and Delete.
 
-
-## Getting Started
+## Getting Started - How to integrate sqflite into a flutter project.
 
 ## Part 1: Prerequisites.
 
